@@ -1,6 +1,8 @@
 # WICS-Hackathon
 
 ## Medical AI Chatbot
+## PLEASE NOTE: I COULD NOT COMPILE A DATABASE FOR THE SECOND SOLUTION WITH MY CURRENT RESOURCES. THE SOLUTION IS CURRENTLY HYPOTHETICAL.
+
 ### Overview
 This repository contains two versions of a medical AI chatbot designed to assist in gathering patient medical history. The chatbot utilizes OpenAI for natural language processing and is progressively enhanced to improve the depth and accuracy of the medical history it collects. Below, we explain the differences between the two versions of the chatbot.
 
@@ -35,9 +37,7 @@ The second version of the medical chatbot is significantly more advanced, utiliz
 - Personalized Interactions: By referencing prior conversations, the chatbot can personalize its responses and adapt to specific patient needs.
 - Contextual Awareness: The use of a large database of past medical histories allows the chatbot to better understand the nuances of medical conversations and provide more targeted follow-up questions.
 - Improved Accuracy: The database allows the chatbot to identify patterns in responses and adjust its questioning based on previous similar cases.
-- 
+
 #### Limitations:
 - Database Dependency: The performance of the chatbot heavily depends on the quality and scope of the medical history database it has access to.
 - Complexity: With the integration of Pinecone and the database, the second version requires more resources and setup compared to the first version.
-
-  # PLEASE NOTE: I COULD NOT COMPILE A DATABASE FOR THE SECOND SOLUTION WITH MY CURRENT RESOURCES. THE SOLUTION IS CURRENTLY HYPOTHETICAL.
