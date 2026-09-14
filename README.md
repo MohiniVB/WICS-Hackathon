@@ -1,7 +1,6 @@
 # WICS-Hackathon
 
 ## Medical AI Chatbot
-## PLEASE NOTE: I COULD NOT COMPILE A DATABASE FOR THE SECOND SOLUTION WITH MY CURRENT RESOURCES. THE SOLUTION IS CURRENTLY HYPOTHETICAL.
 
 ### Overview
 This repository contains two versions of a medical AI chatbot designed to assist in gathering patient medical history. The chatbot utilizes OpenAI for natural language processing and is progressively enhanced to improve the depth and accuracy of the medical history it collects. Below, we explain the differences between the two versions of the chatbot.
